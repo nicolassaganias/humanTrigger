@@ -1,4 +1,4 @@
-# humanCh
+# humanTrigger
 Detector de contacto humano. Cuando dos personas se tocan, un sonido se reproduce.
 Usamos nuestros cuerpos como una resistencia más en un circuito que está abierto si no tocamos a nadie y que se cierra cuando
 lo hacemos.
